@@ -1,0 +1,3 @@
+[submodule "Assets/UComponent"]
+	path = Assets/UComponent
+	url = https://github.com/m969/UComponent.git
